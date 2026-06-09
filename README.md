@@ -112,15 +112,8 @@ The dataset contains employee-related information such as:
 
 ### Dashboard Preview
 
-Add your dashboard screenshot below:
+![image alt](https://github.com/Joykiran87/Messy_employees-Analysis/blob/06a7ecd928ac0ddafcab619421dd75b47944b942/Dashboard_screenshot.png)
 
-```markdown
-![Power BI Dashboard](images/dashboard.png)
-```
-
-Replace the image path with the actual location of your dashboard screenshot.
-
----
 
 ## Results & Findings
 
